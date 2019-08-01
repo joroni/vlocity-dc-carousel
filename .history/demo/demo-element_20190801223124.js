@@ -47,10 +47,15 @@ class DemoElement extends PolymerElement {
   
   iron-image {
       display: block;
-    
+    /*   background-color: #ddd;
+      min-height: 260px;
+      max-height: 480px; */
   }
   
- 
+  skeleton-carousel {
+      min-height: 260px;
+      max-height: 480px;
+  }
   
   
   /********slick-customize*********/

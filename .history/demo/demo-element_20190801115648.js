@@ -7,8 +7,7 @@ import '../vlocity-dc-carousel.js';
 class DemoElement extends PolymerElement {
   static get template() {
     return html`
-    <style>  
-@font-face {
+    <!-- <link rel="preload" href="../../../assets/fonts/Soleil_Bold.c201af2f.woff2" as="font" type="font/woff2" crossorigin="anonymous"> <link rel="preload" href="../../../assets/fonts/HouseSlant.b17c2393.woff" as="font" type="font/woff2" crossorigin="anonymous">--> <style is="custom-style"> @font-face {
       font-family: "Soleil";
       src: url("../../../assets/fonts/Soleil_Bold.c201af2f.woff2") format("woff2"), url("../../../assets/fonts/Soleil_Bold.c201af2f.woff") format("woff");
   }
@@ -44,13 +43,17 @@ class DemoElement extends PolymerElement {
       background-color: var(--paper-grey-10);
   }
   
-  
-  iron-image {
+  <style> iron-image {
       display: block;
-    
+      background-color: #ddd;
+      min-height: 260px;
+      max-height: 480px;
   }
   
- 
+  skeleton-carousel {
+      min-height: 260px;
+      max-height: 480px;
+  }
   
   
   /********slick-customize*********/
