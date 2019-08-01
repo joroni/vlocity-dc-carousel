@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="176px" height="163px" viewBox="0 0 176 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon_transfer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard_transfer_1.2" transform="translate(-286.000000, -463.000000)">
+            <g id="Icon/Transfer" transform="translate(284.000000, 463.000000)">
+                <circle id="Oval" fill="#FDF401" cx="48.51" cy="45.99" r="45.99"></circle>
+                <g id="Group-2" stroke-width="1" transform="translate(16.380000, 30.240000)" stroke="#000000">
+                    <path d="M0,19.53 L66.78,19.53" id="Path-5" stroke-width="4"></path>
+                    <path d="M91.98,19.53 L158.76,19.53" id="Path-5-Copy-3" stroke-width="4"></path>
+                    <path d="M28.98,9.45 L38.43,9.45" id="Path-5-Copy-2" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M120.96,9.45 L130.41,9.45" id="Path-5-Copy-4" stroke-width="4" stroke-linecap="round"></path>
+                    <path d="M0,103.95 L66.78,103.95" id="Path-5-Copy" stroke-width="4"></path>
+                    <path d="M91.98,103.95 L158.76,103.95" id="Path-5-Copy-5" stroke-width="4"></path>
+                    <circle id="Oval" stroke-width="4" cx="34.02" cy="115.92" r="5.04"></circle>
+                    <circle id="Oval-Copy" stroke-width="4" cx="126" cy="115.92" r="5.04"></circle>
+                    <g id="Group" transform="translate(25.200000, 40.320000)" stroke-linecap="round" stroke-width="4">
+                        <path d="M104.725385,15.5201985 L1.1072408,15.5201985" id="Stroke-2"></path>
+                        <path d="M15.7229763,1.15267137 L1.40538462,15.470263" id="Stroke-3"></path>
+                        <path d="M1.40538462,31.9001985 L105.023528,31.9001985" id="Stroke-6"></path>
+                        <path d="M89.7198942,47.3916352 L104.145177,32.9663524" id="Stroke-7"></path>
+                    </g>
+                    <path d="M66.78,41.6677539 L66.78,2 C66.78,0.8954305 65.8845695,-7.76163567e-16 64.78,-1.55431223e-15 L2,0 C0.8954305,2.02906125e-16 -1.3527075e-16,0.8954305 0,2 L0,127.78 C-1.55616059e-14,128.884569 0.8954305,129.78 2,129.78 L64.78,129.78 C65.8845695,129.78 66.78,128.884569 66.78,127.78 L66.78,84.4671172" id="Path-6" stroke-width="4"></path>
+                    <path d="M158.76,41.6677539 L158.76,2 C158.76,0.8954305 157.864569,6.09121998e-15 156.76,-1.55431223e-15 L93.98,0 C92.8754305,2.02906125e-16 91.98,0.8954305 91.98,2 L91.98,127.78 C91.98,128.884569 92.8754305,129.78 93.98,129.78 L156.76,129.78 C157.864569,129.78 158.76,128.884569 158.76,127.78 L158.76,84.4671172" id="Path-6-Copy" stroke-width="4" transform="translate(125.370000, 64.890000) scale(-1, 1) translate(-125.370000, -64.890000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

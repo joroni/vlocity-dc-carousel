@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <polygon id="path-3" points="0.331578947 0.369230769 18.9631579 0.369230769 18.9631579 18.8298462 0.331578947 18.8298462"></polygon>
+        <polygon id="path-5" points="0 0.406982469 35.4 0.406982469 35.4 22.8837209 0 22.8837209"></polygon>
+    </defs>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="m-menu_login" transform="translate(-27.000000, -48.000000)">
+            <g id="Page"></g>
+            <g id="Group" transform="translate(27.000000, 48.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-1"></use>
+                <g id="Group-7" mask="url(#mask-2)">
+                    <g transform="translate(12.000000, 16.800000)">
+                        <g id="Group-3" transform="translate(8.052632, 0.277846)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M18.9631579,9.59907692 C18.9631579,14.6963077 14.7915474,18.8298462 9.64736842,18.8298462 C4.50318947,18.8298462 0.331578947,14.6963077 0.331578947,9.59907692 C0.331578947,4.50184615 4.50318947,0.368307692 9.64736842,0.368307692 C14.7915474,0.368307692 18.9631579,4.50184615 18.9631579,9.59907692" id="Fill-1" fill="#9E9E9E" mask="url(#mask-4)"></path>
+                        </g>
+                        <g id="Group-6" transform="translate(0.000000, 22.947971)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <g id="Clip-5"></g>
+                            <path d="M35.4,22.8839055 L35.4,17.945444 C35.4,8.29929016 27.435,0.406982469 17.7,0.406982469 C7.965,0.406982469 0,8.29929016 0,17.945444 L0,22.8839055 L35.4,22.8839055 Z" id="Fill-4" fill="#A2A2A2" mask="url(#mask-6)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="25px" viewBox="0 0 24 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Btn_Menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile/Header_cross" transform="translate(-366.000000, -65.000000)" fill="#000000">
+            <g id="Btn_Menu" transform="translate(365.000000, 65.000000)">
+                <rect id="Rectangle-6" transform="translate(13.000000, 12.727922) rotate(-45.000000) translate(-13.000000, -12.727922) " x="-3" y="10.7279221" width="32" height="4" rx="2"></rect>
+                <rect id="Rectangle-6" transform="translate(13.000000, 12.727922) rotate(45.000000) translate(-13.000000, -12.727922) " x="-3" y="10.7279221" width="32" height="4" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

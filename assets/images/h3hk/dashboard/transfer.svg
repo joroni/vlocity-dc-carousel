@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>transfer</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="m-dashboard" transform="translate(-329.000000, -1085.000000)">
+            <g id="Page"></g>
+            <g id="Group-16" transform="translate(15.000000, 1068.000000)">
+                <g id="icon/circle/transfer" transform="translate(314.000000, 17.000000)">
+                    <circle id="Oval" fill="#000000" fill-rule="evenodd" cx="25" cy="25" r="25"></circle>
+                    <polyline id="Stroke-1" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="23.0561092 18.9352253 31.0240468 18.9352253 31.0240468 15 37.9965338 21.972487 31.1431976 28.8258232 31.1431976 24.9848354 18.8533362 24.9848354 18.8533362 21.1449307 12 27.9993501 19.0017331 35 19.0017331 31.129766 26.9404246 31.129766"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

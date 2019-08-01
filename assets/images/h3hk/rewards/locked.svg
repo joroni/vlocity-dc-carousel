@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Lock item</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Dashboard_rewards" transform="translate(-912.000000, -427.000000)">
+            <g id="Group-2" transform="translate(912.000000, 427.000000)">
+                <g id="Lock-item">
+                    <path d="M4,0 L64,0 L0,64 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" id="Rectangle" fill="#00C9FF"></path>
+                    <g id="Icon/lock" stroke="#FFFFFF">
+                        <g id="Group-5" transform="translate(9.600000, 8.800000)">
+                            <polygon id="Stroke-1" stroke-width="1.6" points="0 20 14.4827586 20 14.4827586 8.27586207 0 8.27586207"></polygon>
+                            <path d="M11.7241379,8.27586207 L11.7241379,4.41973768 C11.7241379,1.9827411 9.71359552,0 7.24137931,0 C4.77001648,0 2.75862069,1.9827411 2.75862069,4.41973768 L2.75862069,8.27586207 L11.7241379,8.27586207 Z" id="Stroke-3" stroke-width="1.6"></path>
+                            <path d="M6.89655172,11.0344828 C5.7561018,11.0344828 4.82758621,11.8735923 4.82758621,12.9051942 C4.82758621,13.4174596 5.06297229,13.91244 5.47381221,14.264426 L5.47381221,15.9536447 C5.47381221,16.6639022 6.11222097,17.2413793 6.89655172,17.2413793 C7.68088248,17.2413793 8.32015982,16.6639022 8.32015982,15.9536447 L8.32015982,14.264426 C8.73013116,13.91244 8.96551724,13.4174596 8.96551724,12.9051942 C8.96551724,11.8735923 8.03700165,11.0344828 6.89655172,11.0344828 Z" id="Stroke-4" stroke-width="1.6"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

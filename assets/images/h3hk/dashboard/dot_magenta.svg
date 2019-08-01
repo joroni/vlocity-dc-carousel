@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="13px" viewBox="0 0 14 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard_delivery-status" transform="translate(-539.000000, -549.000000)">
+            <g id="Group-3" transform="translate(540.000000, 427.000000)">
+                <g id="Entry-1" transform="translate(0.000000, 116.000000)">
+                    <g id="timeline" transform="translate(0.000000, 7.000000)">
+                        <g id="Group-12">
+                            <circle id="Oval-3" fill="#FF33FF" opacity="0.600000024" cx="8" cy="7" r="5"></circle>
+                            <circle id="Oval-3" stroke="#000000" cx="5" cy="5" r="5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

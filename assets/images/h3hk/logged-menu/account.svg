@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon/account</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="offer-listing-with-login_icons" transform="translate(-1061.000000, -122.000000)" stroke="#000000">
+            <g id="Icon/Account" transform="translate(1056.000000, 118.000000)">
+                <g id="Group-5" transform="translate(4.500000, 3.937500)">
+                    <path d="M9.2358871,1.42694497 C6.99197226,1.42694497 5.1733871,3.24572362 5.1733871,5.48998359 C5.1733871,7.73329998 6.99210592,9.55194497 9.2358871,9.55194497 C11.4796683,9.55194497 13.2983871,7.73329998 13.2983871,5.48998359 C13.2983871,3.24572362 11.4798019,1.42694497 9.2358871,1.42694497 Z" id="Stroke-1" stroke-width="2"></path>
+                    <path d="M1.54544549,18.3886385 L16.9263287,18.3886385 C16.4077118,14.7885706 13.1356842,11.9511385 9.2358871,11.9511385 C5.33608995,11.9511385 2.06406244,14.7885706 1.54544549,18.3886385 Z" id="Stroke-3" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

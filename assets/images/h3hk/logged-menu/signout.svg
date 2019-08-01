@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon/signout</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="offer-listing-with-login_icons" transform="translate(-1061.000000, -321.000000)" stroke="#231F20">
+            <g id="Icon/Sign_out" transform="translate(1056.000000, 318.000000)">
+                <g id="Group-7" transform="translate(5.625000, 4.500000)">
+                    <polyline id="Stroke-1" stroke-width="2" points="12.2916522 13.0966435 12.2916522 17.5363826 0.391304348 17.5363826 0.391304348 0.391773913 12.2916522 0.391773913 12.2916522 4.59046957"></polyline>
+                    <path d="M4.5,8.84347826 L15.6709565,8.84347826" id="Stroke-3" stroke-width="2"></path>
+                    <polyline id="Stroke-5" stroke-width="2" points="12.8586913 11.6564515 15.6711913 8.84316151 12.8586913 6.03066151"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

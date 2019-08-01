@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="164px" viewBox="0 0 180 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>sms</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard_SMS_forwarding_1.2" transform="translate(-286.000000, -344.000000)">
+            <g id="Icon/SMS-forwarding" transform="translate(284.000000, 344.000000)">
+                <circle id="Oval" fill="#FDF401" cx="48.51" cy="45.99" r="45.99"></circle>
+                <g id="Group-19" stroke-width="1" transform="translate(36.540000, 30.240000)" stroke="#000000">
+                    <g id="Group" transform="translate(41.580000, 32.760000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+                        <path d="M71.79291,12.25854 L90.69291,12.25854" id="Stroke-5"></path>
+                        <path d="M3.15,-7.46069873e-14 L3.15,62.2566" id="Stroke-9"></path>
+                        <polygon id="Stroke-10" points="3.15 55.02609 61.1919 55.02609 61.1919 7.03269 3.15 7.03269"></polygon>
+                        <polyline id="Stroke-11" points="3.15 22.89546 23.8896 35.05446 61.1919 13.34466"></polyline>
+                        <path d="M30.65706,30.93678 L61.19316,48.70278" id="Stroke-12"></path>
+                        <path d="M3.11913,39.17466 L16.94133,31.07286" id="Stroke-13"></path>
+                        <path d="M71.79291,50.02767 L90.69291,50.02767" id="Stroke-14"></path>
+                        <path d="M81.87291,29.88153 L100.77291,29.88153" id="Stroke-16"></path>
+                    </g>
+                    <path d="M0,19.53 L66.78,19.53" id="Path-5" stroke-width="6"></path>
+                    <path d="M28.98,9.45 L38.43,9.45" id="Path-5-Copy-2" stroke-width="6" stroke-linecap="round"></path>
+                    <path d="M31.5,116.55 L35.28,116.55" id="Path-5-Copy-6" stroke-width="6" stroke-linecap="round"></path>
+                    <path d="M0,103.95 L66.78,103.95" id="Path-5-Copy" stroke-width="6"></path>
+                    <path d="M66.78,32.76 L66.78,2 C66.78,0.8954305 65.8845695,-3.28806302e-12 64.78,-3.41637829e-12 L2,-3.18323146e-12 C0.8954305,-3.18302855e-12 -1.3527075e-16,0.8954305 0,2 L0,127.78 C-7.71316759e-15,128.884569 0.8954305,129.78 2,129.78 L64.78,129.78 C65.8845695,129.78 66.78,128.884569 66.78,127.78 L66.78,95.0166" id="Path-6" stroke-width="6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="86px" viewBox="0 0 86 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>FB</title>
+    <desc>Created with Sketch.</desc>
+    <g id="MO-Web-Login-Sign-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MO_Web_Desktop_Login" transform="translate(-106.000000, -592.000000)">
+            <g id="FB" transform="translate(108.000000, 594.000000)">
+                <circle id="Oval" stroke="#000000" stroke-width="3" fill="#FFFFFF" cx="41" cy="41" r="41"></circle>
+                <g id="facebook" transform="translate(34.000000, 24.000000)" fill="#39579A" fill-rule="nonzero">
+                    <path d="M3.45831548,6.58471747 C3.45831548,7.44153151 3.45831548,11.2658517 3.45831548,11.2658517 L0,11.2658517 L0,16.9899608 L3.45831548,16.9899608 L3.45831548,34 L10.5624296,34 L10.5624296,16.990435 L15.3296201,16.990435 C15.3296201,16.990435 15.7760883,14.2457685 15.992507,11.2447456 C15.372027,11.2447456 10.5892927,11.2447456 10.5892927,11.2447456 C10.5892927,11.2447456 10.5892927,7.91464084 10.5892927,7.33094171 C10.5892927,6.74597779 11.3638565,5.95912228 12.1294128,5.95912228 C12.8935343,5.95912228 14.5062724,5.95912228 16,5.95912228 C16,5.17977643 16,2.48696619 16,0 C14.0059186,0 11.7373083,0 10.7373183,0 C3.28270942,-0.000395245889 3.45831548,5.72940536 3.45831548,6.58471747 Z" id="Facebook"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

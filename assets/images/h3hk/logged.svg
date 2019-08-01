@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Login/Signin icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="offer-listing-without-login-copy-3" transform="translate(-1167.000000, -24.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2">
+            <g id="Login/Signin-icon" transform="translate(1168.000000, 25.000000)">
+                <path d="M9.5,0 C12.5378723,0 15,2.23853601 15,5.00053197 C15,7.76146399 12.5378723,10 9.5,10 C6.46212766,10 4,7.76146399 4,5.00053197 C4,2.23853601 6.46212766,0 9.5,0 Z" id="Stroke-1"></path>
+                <path d="M0,20 C0,15.0703571 4.29761905,11 9.5,11 C14.702381,11 19,15.0703571 19,20 L0,20 Z" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

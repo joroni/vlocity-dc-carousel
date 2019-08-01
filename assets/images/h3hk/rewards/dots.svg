@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="7px" viewBox="0 0 87 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Center</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mock-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="m-dashboard_rewards" transform="translate(-165.000000, -1003.000000)">
+            <g id="Page"></g>
+            <g id="Center" transform="translate(165.000000, 1003.000000)" fill="#000000">
+                <g id="UI-Controls-/-Page-Controls-/-Dot-Black">
+                    <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+                </g>
+                <g id="UI-Controls-/-Page-Controls-/-Dot-Black" opacity="0.32" transform="translate(16.000000, 0.000000)">
+                    <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+                </g>
+                <g id="UI-Controls-/-Page-Controls-/-Dot-Black" opacity="0.32" transform="translate(32.000000, 0.000000)">
+                    <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+                </g>
+                <g id="UI-Controls-/-Page-Controls-/-Dot-Black" opacity="0.32" transform="translate(48.000000, 0.000000)">
+                    <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+                </g>
+                <g id="UI-Controls-/-Page-Controls-/-Dot-Black" opacity="0.32" transform="translate(64.000000, 0.000000)">
+                    <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+                </g>
+                <g id="UI-Controls-/-Page-Controls-/-Dot-Black" opacity="0.32" transform="translate(80.000000, 0.000000)">
+                    <circle id="Controls-/-Pagination-Dots-/-_Resources-/-Page-Dot---On-Dark" cx="3.5" cy="3.5" r="3.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
