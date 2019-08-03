@@ -327,18 +327,10 @@ class VlocityDCCarousel extends PolymerElement {
       height: 28%;
       font-family: HouseSlant, sans-serif;
   }
- 
   @media (max-width: 480px){
-    .w3-hide-small{
-        display: none!important;
-      }
+    .w3-hide-small{display: none!important}
   }
 
-
-
-@media (max-width: 1024px) and (min-width: 481px){
-    .w3-hide-medium {display: none!important;}
-}
 
 
   </style>

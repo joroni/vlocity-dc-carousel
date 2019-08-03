@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "title": "John Smith",
+        "participants": {
+          "numbers": [
+            {
+              "peopleCategoryId": "adults",
+              "number": 4
+            }
+          ]
+        },
+        "productId": "2129Y4KNB2DC9F",
+        "price": "1.23", 
+        "totalPaid": {
+          "amount": "0",
+          "currency": "USD"
+        }
+      }
+    ]
+  }

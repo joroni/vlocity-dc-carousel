@@ -327,28 +327,34 @@ class VlocityDCCarousel extends PolymerElement {
       height: 28%;
       font-family: HouseSlant, sans-serif;
   }
- 
-  @media (max-width: 480px){
-    .w3-hide-small{
-        display: none!important;
-      }
-  }
+
+  .w3-show-small , .w3-show-medium , .w3-show-large{display: none;}
 
 
+
+@media only screen and (max-width: 480px) {
+    .w3-show-small{
+        display: block!important;
+        }
+    }
 
 @media (max-width: 1024px) and (min-width: 481px){
-    .w3-hide-medium {display: none!important;}
+     .w3-show-medium {
+         display: block!important;
+    }
 }
 
-
+@media  (min-width: 1024px) {
+    .w3-show-large{display: block!important;}
+}
   </style>
   
  
-  <div class="w3-hide-small w3-hide-medium offer_slider_box">
-    Large
+  <div class="w3-show-large offer_slider_box">
+  Large
         <div class="slider_sp">
             <skeleton-carousel class="slider_sp_box " dots auto loop>
-                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_pc.png" sizing="cover">
+                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" sizing="cover">
                     <div>
                         <a href="offer-details-createplan.html">
                             <article class="bg_01">
@@ -360,9 +366,9 @@ class VlocityDCCarousel extends PolymerElement {
                             </article>
                         </a>
                     </div>
-                    <!--<img src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" />-->
+                    <!--<img src="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" />-->
                 </iron-image>
-                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" sizing="cover">
+                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" sizing="cover">
                     <div>
                         <a href="offer-details-createplan.html">
                             <article class="bg_02" style="background:url(../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png);">
@@ -376,10 +382,10 @@ class VlocityDCCarousel extends PolymerElement {
                     </div>
                     <!--<img src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" />-->
                 </iron-image>
-                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_03_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_03_pc.png" sizing="cover">
+                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" sizing="cover">
                     <div>
                         <a href="offer-details-createplan.html">
-                            <article class="bg_03" style="background:url(../../../assets/images/h3hk/offer_slider/slider_03_pc.png);">
+                            <article class="bg_03" style="background:url(../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png);">
                                 <div class="text_box">
                                     <div class="offer_card_heading">Slider 3</div>
                                     <div>This is banner text. This is banner text. This is banner text.</div>
@@ -398,11 +404,11 @@ class VlocityDCCarousel extends PolymerElement {
 
 
 
-   <div class="w3-hide-large w3-hide-medium">
+    <div class="w3-show-medium">
     Medium
         <div class="slider_sp">
             <skeleton-carousel class="slider_sp_box " dots auto loop>
-                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_tb.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_tb.png" sizing="cover">
+                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" sizing="cover">
                     <div>
                         <a href="offer-details-createplan.html">
                             <article class="bg_01">
@@ -416,10 +422,10 @@ class VlocityDCCarousel extends PolymerElement {
                     </div>
                     <!--<img src="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" />-->
                 </iron-image>
-                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_02_tb.png" data-src="../../../assets/images/h3hk/offer_slider/slider_02_tb.png" sizing="cover">
+                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" sizing="cover">
                     <div>
                         <a href="offer-details-createplan.html">
-                            <article class="bg_02" style="background:url(../../../assets/images/h3hk/offer_slider/slider_02_tb.png);">
+                            <article class="bg_02" style="background:url(../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png);">
                                 <div class="text_box">
                                     <div class="offer_card_heading">Slider 2</div>
                                     <div>This is banner text. This is banner text. This is banner text.</div>
@@ -430,7 +436,7 @@ class VlocityDCCarousel extends PolymerElement {
                     </div>
                     <!--<img src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" />-->
                 </iron-image>
-                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_03_tb.png" data-src="../../../assets/images/h3hk/offer_slider/slider_03_tb.png" sizing="cover">
+                <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" sizing="cover">
                     <div>
                         <a href="offer-details-createplan.html">
                             <article class="bg_03" style="background:url(../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png);">
@@ -450,7 +456,7 @@ class VlocityDCCarousel extends PolymerElement {
 
 
 
-  <div class="w3-hide-large w3-hide-medium">
+  <div class="w3-show-small">
     Small
         <div class="slider_sp">
             <skeleton-carousel class="slider_sp_box " dots auto loop>

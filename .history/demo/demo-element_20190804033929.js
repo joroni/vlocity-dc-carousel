@@ -327,24 +327,48 @@ class VlocityDCCarousel extends PolymerElement {
       height: 28%;
       font-family: HouseSlant, sans-serif;
   }
- 
-  @media (max-width: 480px){
-    .w3-hide-small{
-        display: none!important;
-      }
+
+  
+
+
+  /* Mobile devices (ios android phones, 480 and up) */
+  @media only screen and (min-width: 480) {
+    .w3-show-small{
+        display: block!important;
+        }
+   /*  .w3-show-medium, .w3-show-large{
+        display: none;
+    } */
+  } 
+  
+  /* Medium devices (tablet, 1024 and up) */
+  @media only screen and (min-width: 1024) {
+
+    .w3-show-medium {
+        display: block!important;
+   }
+  /*  .w3-show-large, .w3-show-small{
+    display: none;
+    } */
+
+  } 
+  
+  .w3-show-small , .w3-show-medium , .w3-show-large{display: none;}
+
+  /*Large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+    .w3-show-large{display: block!important;}
+   /*  .w3-show-small, .w3-show-medium{
+        display: none;
+        } */
   }
 
-
-
-@media (max-width: 1024px) and (min-width: 481px){
-    .w3-hide-medium {display: none!important;}
-}
 
 
   </style>
   
  
-  <div class="w3-hide-small w3-hide-medium offer_slider_box">
+  <div class="w3-show-large offer_slider_box">
     Large
         <div class="slider_sp">
             <skeleton-carousel class="slider_sp_box " dots auto loop>
@@ -398,7 +422,7 @@ class VlocityDCCarousel extends PolymerElement {
 
 
 
-   <div class="w3-hide-large w3-hide-medium">
+    <div class="w3-show-medium">
     Medium
         <div class="slider_sp">
             <skeleton-carousel class="slider_sp_box " dots auto loop>
@@ -450,7 +474,7 @@ class VlocityDCCarousel extends PolymerElement {
 
 
 
-  <div class="w3-hide-large w3-hide-medium">
+  <div class="w3-show-small">
     Small
         <div class="slider_sp">
             <skeleton-carousel class="slider_sp_box " dots auto loop>
