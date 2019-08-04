@@ -272,45 +272,37 @@ import {
        height: 28%;
        font-family: HouseSlant, sans-serif;
        }
-
-
-
-       .offer_slider_box.w3-hide-small.w3-hide-medium {
-        width: 1150px;
-        max-height: 490px;
-        margin: 0 auto;
-    }
-       
-       
-       @media (min-width: 1025px){
-        .w3-hide-large {
-            display: none !important;
-            }
-        }
-
-          
-       @media (max-width: 1024px) and (min-width: 481px){
-            .w3-hide-medium {
-                display: none !important;
-            }
-        }
-        
-       @media (max-width: 480px){
-            .w3-hide-small {
-                display: none !important;
-            }
-          
+       /* simplecodetips.com hide div example */
+       @media screen and (max-width: 1024px) {
+       .w3-show-small, .w3-show-medium {
+       display: none !important;
+       } 
+       .w3-show-large {
+       display:block !important;
+       }  
        }
-
-     
-       
+       @media (max-width: 480px){
+       .w3-hide-small {
+       display: none!important;
+       }
+       }
+       @media (max-width: 1024px) and (min-width: 481px){
+       .w3-hide-medium {
+       display: none!important;
+       }
+       }
+       @media (min-width: 1025px){
+       .w3-hide-large {
+       display: none!important;
+       }
+       }
     </style>
     <div class="w3-hide-small w3-hide-medium offer_slider_box">
-       
+       Large
        <div class="slider_sp">
           <skeleton-carousel class="slider_sp_box " dots auto loop>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_pc.png" sizing="cover">
-             <!-- <div>
+                <div>
                    <a href="offer-details-createplan.html">
                       <article class="bg_01">
                          <div class="text_box">
@@ -321,10 +313,10 @@ import {
                       </article>
                    </a>
                 </div>
-               <img src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" />-->
+                <!--<img src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" />-->
              </iron-image>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" sizing="cover">
-               <!-- <div>
+                <div>
                    <a href="offer-details-createplan.html">
                       <article class="bg_02" style="background:url(../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png);">
                          <div class="text_box">
@@ -335,10 +327,10 @@ import {
                       </article>
                    </a>
                 </div>
-              <img src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" />-->
+                <!--<img src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" />-->
              </iron-image>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_03_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_03_pc.png" sizing="cover">
-                <!--<div>
+                <div>
                    <a href="offer-details-createplan.html">
                       <article class="bg_03" style="background:url(../../../assets/images/h3hk/offer_slider/slider_03_pc.png);">
                          <div class="text_box">
@@ -349,13 +341,13 @@ import {
                       </article>
                    </a>
                 </div>
-            <img src="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" />-->
+                <!--<img src="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" />-->
              </iron-image>
           </skeleton-carousel>
        </div>
     </div>
     <div class="w3-hide-large w3-hide-small">
-       
+       Medium
        <div class="slider_sp">
           <skeleton-carousel class="slider_sp_box " dots auto loop>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_tb.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_tb.png" sizing="cover">
@@ -404,7 +396,7 @@ import {
        </div>
     </div>
     <div class="w3-hide-large w3-hide-medium">
-      
+       Small
        <div class="slider_sp">
           <skeleton-carousel class="slider_sp_box " dots auto loop>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" data-src="../../../assets/images/h3hk/offer_slider/slider_01_sp_02.png" sizing="cover">
@@ -462,4 +454,4 @@ import {
     }
     }
     }
-    customElements.define('demo-element', VlocityDCCarousel);   
+    customElements.define('demo-element', VlocityDCCarousel);

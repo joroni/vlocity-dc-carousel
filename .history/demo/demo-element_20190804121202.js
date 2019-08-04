@@ -324,7 +324,7 @@ import {
                <img src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" />-->
              </iron-image>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_02_pc.png" sizing="cover">
-               <!-- <div>
+                <div>
                    <a href="offer-details-createplan.html">
                       <article class="bg_02" style="background:url(../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png);">
                          <div class="text_box">
@@ -335,10 +335,10 @@ import {
                       </article>
                    </a>
                 </div>
-              <img src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" />-->
+                <!--<img src="../../../assets/images/h3hk/offer_slider/slider_02_sp_02.png" />-->
              </iron-image>
              <iron-image placeholder="../../../assets/images/h3hk/offer_slider/slider_03_pc.png" data-src="../../../assets/images/h3hk/offer_slider/slider_03_pc.png" sizing="cover">
-                <!--<div>
+                <div>
                    <a href="offer-details-createplan.html">
                       <article class="bg_03" style="background:url(../../../assets/images/h3hk/offer_slider/slider_03_pc.png);">
                          <div class="text_box">
@@ -349,7 +349,7 @@ import {
                       </article>
                    </a>
                 </div>
-            <img src="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" />-->
+                <!--<img src="../../../assets/images/h3hk/offer_slider/slider_03_sp_02.png" />-->
              </iron-image>
           </skeleton-carousel>
        </div>
